@@ -1,0 +1,81 @@
+
+@media (max-width: 575.98px) { 
+
+ }
+@media (max-width: 575.98px) {  }
+@media (max-width: 575.98px) {  }
+@media (max-width: 992px) { 
+    
+    .header-madle {
+        border-bottom: 0px solid #ddd;
+    }
+    .header-serarch-div{
+        display: none;
+    }
+    .responsive-wid{
+        display: none;
+    }
+    .dis-none{
+        display: none;
+    }
+    header{
+        padding: 0 10px;
+    }
+    .catblock{
+        display: block;
+    }
+    .main-menu ul{
+        left: 0;
+        width: 100%;
+        top: 0;
+        position: absolute;
+        flex-direction: column;
+        background: rgb(109, 109, 109);
+        padding: 15px;
+        height: 100%;
+        overflow-y: scroll;
+    }
+    .main-menu ul li{
+
+    }
+    .main-menu ul li a{
+        width: 100%;
+        color: white;
+    }
+    .main-menu ul li a:hover{
+        width: 100%;
+        color: rgb(204, 204, 204);
+    }
+    .header-icon-menu li a span{
+        font-size: 11px;
+        position: absolute;
+        top: 0px;
+        right: 9px;
+        background: red;
+        border-radius: 50%;
+        padding: 0px 5px;
+        color: white;
+    }
+    .mobile-menu-box ul li a span{
+        font-size: 11px;
+        position: absolute;
+        top: 8px;
+        right: -9px;
+        background: red;
+        border-radius: 50%;
+        padding: 0px 5px;
+        color: white;
+    }
+    .mobile-menu-box ul li a{
+        position: relative;
+    }
+    .mobile-menu-box{
+        display: block;
+    }
+    .search-icon-mobile{
+        display: block;
+    }
+
+    
+    
+}
